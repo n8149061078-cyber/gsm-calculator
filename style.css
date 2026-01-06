@@ -15,7 +15,7 @@ body {
     padding: 30px;
     border-radius: 12px;
     width: 700px;
-    height: 700px;
+    height: 500px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 
     position: relative;
@@ -144,3 +144,4 @@ button:active {
     display: none;
 
 }
+

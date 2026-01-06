@@ -33,7 +33,7 @@ h2 {
 
 /* ===== Form labels ===== */
 label {
-    font-size: 15px;
+    font-size: 30px;
     margin-top: 15px;
     display: block;
 }
@@ -142,4 +142,5 @@ button:active {
     font-weight: bold;
     text-align: center;
     display: none;
+
 }
